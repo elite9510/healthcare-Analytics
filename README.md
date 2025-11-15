@@ -12,3 +12,10 @@ Visualize hospital operations and patient flow
 Provide recommendations to improve service quality and hospital efficiency
 
 ### Dashboard
+<a href="https://github.com/elite9510/healthcare-Analytics/blob/main/Screenshot%202025-05-20%20002231.png">Dashboard</a>
+
+### Key Insights
+Majority of admissions occur for age group 40–60
+Average length of stay increases for chronic conditions
+High readmission rate linked with certain departments
+Bed occupancy patterns help optimize resource allocation
